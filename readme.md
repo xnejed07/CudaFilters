@@ -25,4 +25,4 @@ Moreover, source codes for FIR and FFT plugins are also released.
 
 **Preview**
 
-![preview](https://github.com/xnejed07/CudaFilters/preview.jpg)
+![preview](https://github.com/xnejed07/CudaFilters/blob/master/preview.jpg)
