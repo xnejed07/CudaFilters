@@ -13,7 +13,7 @@ Moreover, source codes for FIR and FFT plugins are also released.
 
 **Instalation**
   - Check if your GPU is supported. 
-  - Install Nvidia CUDA drivers 8.0 from [link0](https://developer.nvidia.com/cuda-downloads).  
+  - Install Nvidia CUDA drivers 8.0 from [CUDA Drivers](https://developer.nvidia.com/cuda-downloads).  
   - Download all attached files from *bin* folder in this repository and copy to SignalPlant plugins folder
 
 
